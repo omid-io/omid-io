@@ -1,60 +1,99 @@
 <div align="center">
 
-# Omid Zaferi
-**Software Developer · Systems Architect**
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30,40&height=200&section=header&text=Omid%20Zaferi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20AI%20Systems%20%7C%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
 
-<br>
+<!-- DYNAMIC TYPING SVG -->
+<a href="https://github.com/omid-io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Autonomous+Agents;Full-Stack+Architect+%26+Backend+Specialist;Model+Context+Protocol+(MCP)+Explorer;Engineering+High-Performance+Web+Ecosystems" alt="Typing SVG" />
+</a>
 
-[![Email](https://img.shields.io/badge/-omidzaferi@gmail.com-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:omidzaferi@gmail.com)
-[![GitHub](https://img.shields.io/badge/-omid--io-181717?style=flat-square&logo=github)](https://github.com/omid-io)
+<br/>
 
-<br>
-
-*Architecting resilient web systems and exploring the frontiers of intelligent automation.*
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-zaferi)
+[![Email](https://img.shields.io/badge/Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omidzaferi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omid-io)
 
 </div>
 
-<br>
+<br/>
 
-### ✦ Engineering Philosophy
+---
 
-I build software with a focus on maintainability, performance, and developer ergonomics. Instead of chasing fleeting trends, I prioritize robust system design and pragmatic problem-solving. My current research and development intersect traditional full-stack architecture with autonomous AI workflows, specifically leveraging the Model Context Protocol (MCP) to bridge language models with real-world infrastructure.
+### ⚡ Developer Specs
 
-### ✦ Technical Arsenal
+```yaml
+identity:
+  name: Omid Zaferi
+  role: Systems Architect & Full-Stack Engineer
+  focus: Distributed Systems, Autonomous AI Workflows, API Architecture
+
+capabilities:
+  architecture: [Microservices, Event-Driven, RESTful, MCP Protocol]
+  performance:  [Database Optimization, Query Tuning, Caching Strategies]
+  automation:   [Browser Automation, Agentic Pipelines, CI/CD]
+
+current_research:
+  - "Multi-Agent Orchestration & Self-Refining Loops"
+  - "Model Context Protocol (MCP) integrations with legacy backends"
+  - "High-throughput asynchronous workflows"
+```
+
+---
+
+### 🛠️ Tech Arsenal & Tooling
 
 <div align="center">
 
-<br>
+#### 🚀 Core Languages & Runtimes
+<br/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-18181b?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-18181b?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-18181b?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-18181b?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-18181b?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-18181b?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<br>
+<br/>
 
-![Node.js](https://img.shields.io/badge/-Node.js-18181b?style=flat-square&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-18181b?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-18181b?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-18181b?style=flat-square&logo=docker)
+#### 🧱 Backend, Data & Infrastructure
+<br/>
 
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-18181b?style=flat-square&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-18181b?style=flat-square&logo=githubactions)
-![Linux](https://img.shields.io/badge/-Linux-18181b?style=flat-square&logo=linux)
-![Playwright](https://img.shields.io/badge/-Playwright-18181b?style=flat-square&logo=playwright)
+<br/>
 
-<br>
+#### 🤖 AI, Automation & Testing
+<br/>
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP_Protocol-6366F1?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omid-io&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=F43F5E&text_color=94A3B8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omid-io&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=94A3B8" width="48%" />
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <br>
-  <i>"Complexity is the enemy of execution."</i>
-  <br><br>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,10&height=120&section=footer" width="100%"/>
 </div>
