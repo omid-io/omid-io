@@ -1,38 +1,69 @@
-# Omid Zaferi
-> Software Developer · Exploring the intersections of modern web architectures, AI agents, and intelligent automation.
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-omid--io-181717?style=flat-square&logo=github)](https://github.com/omid-io)
-[![Email](https://img.shields.io/badge/Contact-omidzaferi%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:omidzaferi@gmail.com)
+# ⚡ Omid Zaferi
+### `Software Developer · AI Systems & Web Architectures`
 
----
+<br/>
 
-### ⚡ Core Focus & Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css,nodejs,mysql,git,github,linux,docker,postman,vscode&theme=dark" alt="Tech Arsenal" />
+</p>
 
-I build robust, maintainable software with a strong focus on clean architecture, performance, and developer ergonomics.
+<br/>
 
-- 🌐 **Modern Web Development:** Crafting responsive, accessible, and fast web applications.
-- 🤖 **Agentic Systems & MCP:** Developing automated pipelines, Model Context Protocol tools, and AI agent integrations.
-- ⚙️ **Backend & Automation:** Designing reliable backend logic, workflow automations, and database schemas.
-
----
-
-### 🛠️ Technical Stack
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `JavaScript` · `TypeScript` · `Python` · `PHP` · `HTML5` · `CSS3` |
-| **Backend & Data** | `Node.js` · `MySQL` · `REST APIs` |
-| **Tooling & Systems** | `Git` · `GitHub Actions` · `Playwright` · `Linux / CLI` |
+[![GitHub](https://img.shields.io/badge/GitHub-omid--io-181717?style=for-the-badge&logo=github)](https://github.com/omid-io)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:omidzaferi@gmail.com)
 
 ---
 
-### 📌 Pinned Work & Explorations
+</div>
 
-* 🚀 [salon-price-form](https://github.com/omid-io/salon-price-form) — Dynamic pricing calculator and quote interface with smooth user interaction.
-* 🤖 **AI Agent Workflows** — Automation scripts and custom MCP integrations for high-velocity software delivery.
+### 🌌 Engineering Focus & Vision
+
+I focus on building clean, high-performance web applications and automated intelligence workflows. Passionate about modern architecture, developer experience, and autonomous systems.
+
+- 🌐 **Modern Full-Stack Web:** Developing responsive, accessible, and fast web ecosystems.
+- 🤖 **Agentic Workflows & MCP:** Designing AI automation pipelines and Model Context Protocol integrations.
+- ⚙️ **System Design & Automation:** Creating structured, reliable workflows and robust data flows.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Core Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Backend & Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💡 Development Philosophy
+
+```bash
+$ omid --principles
+> "Simplicity is prerequisite for reliability."
+> "Automate the repetitive, engineer the essential."
+> "Write clean, readable code with purpose."
+```
 
 ---
 
 <div align="center">
-<sub>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</sub>
+<sub>Crafted with passion by <b>Omid Zaferi</b></sub>
 </div>
