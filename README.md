@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- DARK STEALTH HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:1e293b,100:0a0f1d&height=200&section=header&text=Omid%20Zaferi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20AI%20Systems%20%7C%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
+<!-- SLIM CYBER HERO BANNER -->
+<img src="assets/omid_profile_hero_slim.png" width="100%" alt="Omid Zaferi - AI Systems Architect" />
+
+<br/>
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/omid-io">
