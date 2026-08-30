@@ -19,6 +19,17 @@
 
 ---
 
+### 🚀 Featured Open-Source Projects
+
+| Project | Description | Tech Stack | Highlights |
+| :--- | :--- | :--- | :---: |
+| [**⚡ AirTun**](https://github.com/omid-io/AirTun) | Ultra-fast, low-latency mobile internet & VPN tunnel sharing for Windows 10/11 without root. | `Kotlin` `C#` `WinUI 3` `.NET 8` `Wintun` | ⭐ Featured |
+| [**✨ Android-Todo-App**](https://github.com/omid-io/Android-Todo-App) | Ultra-Modern Glassmorphism Todo & Task Manager for Android with Shamsi/Gregorian dual calendar. | `Kotlin` `Jetpack Compose` `Room Flow` `M3` | 📱 Mobile |
+| [**🧹 Digikala Pure Search**](https://github.com/omid-io/digikala-pure-search) | Intelligent anti-ad & sponsored product remover for Digikala with 100% organic search results. | `JavaScript` `Tampermonkey` `uBlock Origin` | 🛡️ Browser |
+| [**📥 LMSYS Arena Downloader**](https://github.com/omid-io/arena.ai-chat-downloader) | Clean Markdown export & chat backup utility for LMSYS Chatbot Arena (`arena.ai`). | `JavaScript` `Userscript` `Markdown` | 🤖 AI Tools |
+
+---
+
 ### ⚡ Architecture & Focus Specs
 
 ```yaml
@@ -26,6 +37,7 @@ architecture_focus:
   - "Distributed & Event-Driven Systems"
   - "Autonomous AI Agent Workflows & Self-Refining Loops"
   - "Model Context Protocol (MCP) Infrastructure"
+  - "High-Throughput Kernel Networking & Tunneling (Wintun/SOCKS5)"
 
 capabilities:
   systems:      [RESTful APIs, Microservices, Asynchronous Pipelines]
@@ -43,9 +55,13 @@ current_focus:
 
 <div align="center">
 
-**Languages & Runtimes**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages & Frameworks**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
