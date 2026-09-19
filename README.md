@@ -22,27 +22,13 @@
 
 ---
 
-### 📦 Verified Registries & Public Distributions
-
-Production developer tools published to global ecosystem registries:
-
-| Platform / Registry | Package / Extension | Status / Version | Verification |
-| :--- | :--- | :---: | :---: |
-| **Visual Studio Marketplace** | `omid-io.vibe-ui-vscode` | ![Marketplace](https://img.shields.io/badge/VS_Marketplace-v3.1.1-007ACC?logo=visualstudiocode) | [View in Marketplace](https://marketplace.visualstudio.com/items?itemName=omid-io.vibe-ui-vscode) |
-| **Open-VSX Registry** | `omid-io/vibe-ui-vscode` | ![Open-VSX](https://img.shields.io/badge/Open--VSX-620+_Downloads-purple?logo=eclipseide) | [View in Open-VSX](https://open-vsx.org/extension/omid-io/vibe-ui-vscode) |
-| **NPM Registry** | `@omid-io/tokens` | ![NPM](https://img.shields.io/badge/npm-v3.1.1-CB3837?logo=npm) | [View on NPM](https://www.npmjs.com/package/@omid-io/tokens) |
-| **Greasy Fork** | `digikala-pure-search` | ![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-Active-red?logo=tampermonkey) | [View on Greasy Fork](https://greasyfork.org/en/scripts/593664-digikala-pure-search) |
-| **Eclipse Foundation** | Eclipse Contributor Agreement | ![ECA](https://img.shields.io/badge/ECA_3.1-Valid_to_2029-blue?logo=eclipse) | Signed Author (`omidio`) |
-
----
-
 ### 🚀 Flagship Engineering Suites
 
 Production-grade architectures designed for scalability, zero-latency workflows, and deep AI-human interfaces:
 
 | Project | Architecture & Highlights | Tech Stack | Proof & Quality |
 | :--- | :--- | :--- | :---: |
-| [**🎨 Vibe UI Suite**](https://github.com/omid-io/vibe-ui-suite) | **AI-First Front-End Design Compiler & Token Engine.** Features 26 orthogonal style families, zero-latency in-browser web studio, VS Code extension, Next.js 15 starter, and strict WCAG mathematical contrast verification. | `TypeScript` `Next.js 15` `Tailwind v4` `Python` `VS Code API` | [![CI](https://img.shields.io/badge/CI-Passing_100%25-brightgreen)](https://github.com/omid-io/vibe-ui-suite) [![Pages](https://img.shields.io/badge/Demo-Live_Studio-blue)](https://omid-io.github.io/vibe-ui-suite/) |
+| [**🎨 Vibe UI Suite**](https://github.com/omid-io/vibe-ui-suite) | **AI-First Front-End Design Compiler & Token Engine.** Features 26 orthogonal style families, zero-latency web studio, VS Code extension, Next.js 15 starter, and mathematical contrast verification. | `TypeScript` `Next.js 15` `Tailwind v4` `Python` `VS Code API` | [![Marketplace](https://img.shields.io/badge/VS_Marketplace-v3.1.1-007ACC?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=omid-io.vibe-ui-vscode) [![Open-VSX](https://img.shields.io/badge/Open--VSX-620+_Downloads-purple?logo=eclipseide)](https://open-vsx.org/extension/omid-io/vibe-ui-vscode) [![NPM](https://img.shields.io/badge/npm-v3.1.1-CB3837?logo=npm)](https://www.npmjs.com/package/@omid-io/tokens) [![Demo](https://img.shields.io/badge/Demo-Live_Studio-blue)](https://omid-io.github.io/vibe-ui-suite/) |
 | [**⚡ Google Flow Suite**](https://github.com/omid-io/google-flow-suite) | **Unified CDP & API Generative Suite.** High-throughput automation engine supporting Nano Banana 2 & Omni Flash/Veo 3.1 with SQLite state tracking, 50 golden presets, and asynchronous job queues. | `Python` `FastAPI` `Playwright` `SQLite` `AsyncIO` | [![Tests](https://img.shields.io/badge/Tests-462_Passed-success)](https://github.com/omid-io/google-flow-suite) [![Coverage](https://img.shields.io/badge/Engine-Dual_CDP%2FAPI-orange)](https://github.com/omid-io/google-flow-suite) |
 | [**🛡️ AirTun**](https://github.com/omid-io/AirTun) | **High-Throughput Kernel Networking & Tunneling.** Ultra-fast mobile internet & VPN tunnel sharing for Windows 10/11 using Wintun kernel drivers and local SOCKS5 proxy without Android root. | `C#` `.NET 8` `WinUI 3` `Kotlin` `Wintun` | [![Platform](https://img.shields.io/badge/Windows-Kernel_Wintun-0078D6)](https://github.com/omid-io/AirTun) [![Arch](https://img.shields.io/badge/Architecture-Event--Driven-purple)](https://github.com/omid-io/AirTun) |
 | [**🧹 Digikala Pure Search**](https://github.com/omid-io/digikala-pure-search) | **Real-Time DOM Purification & Anti-Ad Engine.** High-performance mutation observer eliminating sponsored and promoted merchandise across e-commerce feeds. | `JavaScript` `DOM Mutation` `uBlock Origin` `Manifest V3` | [![Live](https://img.shields.io/badge/Userscript-Greasy_Fork-red)](https://greasyfork.org/en/scripts/593664-digikala-pure-search) |
