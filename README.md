@@ -51,17 +51,13 @@ Production-grade architectures designed for scalability, zero-latency workflows,
 
 ### 🎯 Upstream Open-Source Track Record
 
-Core engineering contributions, memory-safety fixes, and framework patches across Tier-1 global ecosystems:
+Verified upstream code merges, architectural salvages, and core maintainer approvals in production repositories:
 
 | Organization / Repository | Domain / Area | Architectural Impact & Solution | Proof & Status |
 | :--- | :--- | :--- | :---: |
-| [**dotnet / runtime (Microsoft)**](https://github.com/dotnet/runtime) | `AndroidAppBuilder / NativeAOT` | Fixed Roslyn compiler CS9377/CS9389 memory-safety pointer violations in NativeAOT templates | [![PR #134277](https://img.shields.io/badge/PR-%23134277-512BD4?logo=dotnet&logoColor=white)](https://github.com/dotnet/runtime/pull/134277) |
-| [**run-llama / llama_index**](https://github.com/run-llama/llama_index) | `core / tools` | Preserved typed error propagation and `is_error` flag across `FunctionTool` calls | [![PR #23138](https://img.shields.io/badge/PR-%2323138-000000?logo=github)](https://github.com/run-llama/llama_index/pull/23138) |
 | [**NousResearch / hermes-agent**](https://github.com/NousResearch/hermes-agent) | `core / tools / concurrency` | Core shared-memory concurrency salvage by Teknium (`#114862` cherry-picked `#114470`) | [![Merged](https://img.shields.io/badge/Merged-Salvaged_by_Teknium-brightgreen?logo=github)](https://github.com/NousResearch/hermes-agent/pull/114862) |
-| [**NousResearch / hermes-agent**](https://github.com/NousResearch/hermes-agent) | `cli / fleet` | Fixed unrecoverable restart lock in agent fleet lifecycle (`fleet_restart_pending`) | [![PR #116090](https://img.shields.io/badge/PR-%23116090-brightgreen?logo=github)](https://github.com/NousResearch/hermes-agent/pull/116090) |
 | [**ghost1372 / HandyControls**](https://github.com/ghost1372/HandyControls) | `Controls / MVVM Architecture` | WindowChrome resize border fix, AdornerElement Null-Safety guard, and collection decoupling | [![Merged](https://img.shields.io/badge/Merged-3_PRs_in_Main-brightgreen?logo=csharp)](https://github.com/ghost1372/HandyControls/pull/248) |
 | [**imaNNeo / fl_chart**](https://github.com/imaNNeo/fl_chart) | `BarChart / Flutter Core` | Fixed runtime `LateInitializationError` crash on null data spots | [![Approved](https://img.shields.io/badge/Approved-by_imaNNeo-blue?logo=flutter)](https://github.com/imaNNeo/fl_chart/pull/2119) |
-| [**shadcn-ui / ui**](https://github.com/shadcn-ui/ui) | `docs / astro` | Standardized RTL architecture documentation and routing resolution | [![Approved](https://img.shields.io/badge/Approved-Core_Review-blue?logo=react)](https://github.com/shadcn-ui/ui/pull/11803) |
 
 ---
 
