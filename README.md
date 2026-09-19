@@ -61,6 +61,17 @@ Verified upstream code merges, architectural salvages, and core maintainer appro
 
 ---
 
+### ⚡ Engineered Forks & Specialized Tooling
+
+In-depth architectural modifications, UI/UX engines, and runtime patchers maintained on community open-source foundations:
+
+| Repository / Project | Upstream Base | Core Engineering & Architectural Additions | Tech Stack | Fork Repository |
+| :--- | :--- | :--- | :--- | :---: |
+| [**antigravity-rtl**](https://github.com/omid-io/antigravity-rtl) | `mmnaderi/antigravity-rtl` | Native RTL & BiDi layout patcher for Antigravity 2.0. Calibrated fluid dragging physics (160px–420px), ghost click suppression on settings toggle, and scoped Persian typography. | `JavaScript` `CSS Geometry` `DOM Events` `BiDi Engine` | [![Fork](https://img.shields.io/badge/Fork-omid--io%2Fantigravity--rtl-blue?logo=github)](https://github.com/omid-io/antigravity-rtl) |
+| [**FontWoW-2.0**](https://github.com/omid-io/FontWoW-2.0) | `FontWoW/FontWoW.github.io` | Interactive World of Warcraft typography studio. Built edge-to-edge responsive mobile layout, stationary Before/After comparison slider generator, and draggable text visual affordances. | `HTML5 Canvas` `Modern CSS` `UI Studio` `Draggable UI` | [![Fork](https://img.shields.io/badge/Fork-omid--io%2FFontWoW--2.0-orange?logo=github)](https://github.com/omid-io/FontWoW-2.0) |
+
+---
+
 ### ⚡ Architectural DNA & Core Specs
 
 ```yaml
