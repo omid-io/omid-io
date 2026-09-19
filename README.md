@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SLIM CYBER HERO BANNER -->
-<img src="assets/omid_profile_hero_slim.png" width="100%" alt="Omid Zaferi - AI Systems Architect" />
+<img src="assets/omid_github_header_slim.jpg" width="100%" alt="Omid Zaferi - AI Systems Architect" />
 
 <br/>
 
