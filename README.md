@@ -24,10 +24,10 @@
 
 ### 📦 Verified Registries & Public Distributions
 
-Engineering tools published to global developer registries with active production users:
+Production developer tools published to global ecosystem registries:
 
-| Platform / Registry | Package / Extension | Status / Version | Link |
-| :--- | :--- | :---: | :--- |
+| Platform / Registry | Package / Extension | Status / Version | Verification |
+| :--- | :--- | :---: | :---: |
 | **Visual Studio Marketplace** | `omid-io.vibe-ui-vscode` | ![Marketplace](https://img.shields.io/badge/VS_Marketplace-v3.1.1-007ACC?logo=visualstudiocode) | [View in Marketplace](https://marketplace.visualstudio.com/items?itemName=omid-io.vibe-ui-vscode) |
 | **Open-VSX Registry** | `omid-io/vibe-ui-vscode` | ![Open-VSX](https://img.shields.io/badge/Open--VSX-620+_Downloads-purple?logo=eclipseide) | [View in Open-VSX](https://open-vsx.org/extension/omid-io/vibe-ui-vscode) |
 | **NPM Registry** | `@omid-io/tokens` | ![NPM](https://img.shields.io/badge/npm-v3.1.1-CB3837?logo=npm) | [View on NPM](https://www.npmjs.com/package/@omid-io/tokens) |
@@ -51,11 +51,17 @@ Production-grade architectures designed for scalability, zero-latency workflows,
 
 ### 🎯 Upstream Open-Source Track Record
 
-Active contributions to high-impact international open-source ecosystems:
+Core engineering contributions, memory-safety fixes, and framework patches across Tier-1 global ecosystems:
 
-* **[NousResearch/hermes-agent#103226](https://github.com/NousResearch/hermes-agent/pull/103226):** Implemented bi-directional thread viewport navigation with cubic-eased scroll jumping (`feat/desktop-jump-to-prompt`), eliminated sticky header occlusion, exported timeline controls, and wired full internationalization (`en.ts`).
-* **Model Context Protocol (MCP) Ecosystem:** Architecting autonomous agent tool gateways, token-efficient surgical AST inspectors, and sandboxed browser drivers.
-* **Eclipse Foundation / Open-VSX:** Namespace-verified publisher providing developer tool extensions across open-source IDEs (VS Code, VSCodium, Cursor, Windsurf).
+| Organization / Repository | Domain / Area | Architectural Impact & Solution | Proof & Status |
+| :--- | :--- | :--- | :---: |
+| [**dotnet / runtime (Microsoft)**](https://github.com/dotnet/runtime) | `AndroidAppBuilder / NativeAOT` | Fixed Roslyn compiler CS9377/CS9389 memory-safety pointer violations in NativeAOT templates | [![PR #134277](https://img.shields.io/badge/PR-%23134277-512BD4?logo=dotnet&logoColor=white)](https://github.com/dotnet/runtime/pull/134277) |
+| [**run-llama / llama_index**](https://github.com/run-llama/llama_index) | `core / tools` | Preserved typed error propagation and `is_error` flag across `FunctionTool` calls | [![PR #23138](https://img.shields.io/badge/PR-%2323138-000000?logo=github)](https://github.com/run-llama/llama_index/pull/23138) |
+| [**NousResearch / hermes-agent**](https://github.com/NousResearch/hermes-agent) | `core / tools / concurrency` | Core shared-memory concurrency salvage by Teknium (`#114862` cherry-picked `#114470`) | [![Merged](https://img.shields.io/badge/Merged-Salvaged_by_Teknium-brightgreen?logo=github)](https://github.com/NousResearch/hermes-agent/pull/114862) |
+| [**NousResearch / hermes-agent**](https://github.com/NousResearch/hermes-agent) | `cli / fleet` | Fixed unrecoverable restart lock in agent fleet lifecycle (`fleet_restart_pending`) | [![PR #116090](https://img.shields.io/badge/PR-%23116090-brightgreen?logo=github)](https://github.com/NousResearch/hermes-agent/pull/116090) |
+| [**ghost1372 / HandyControls**](https://github.com/ghost1372/HandyControls) | `Controls / MVVM Architecture` | WindowChrome resize border fix, AdornerElement Null-Safety guard, and collection decoupling | [![Merged](https://img.shields.io/badge/Merged-3_PRs_in_Main-brightgreen?logo=csharp)](https://github.com/ghost1372/HandyControls/pull/248) |
+| [**imaNNeo / fl_chart**](https://github.com/imaNNeo/fl_chart) | `BarChart / Flutter Core` | Fixed runtime `LateInitializationError` crash on null data spots | [![Approved](https://img.shields.io/badge/Approved-by_imaNNeo-blue?logo=flutter)](https://github.com/imaNNeo/fl_chart/pull/2119) |
+| [**shadcn-ui / ui**](https://github.com/shadcn-ui/ui) | `docs / astro` | Standardized RTL architecture documentation and routing resolution | [![Approved](https://img.shields.io/badge/Approved-Core_Review-blue?logo=react)](https://github.com/shadcn-ui/ui/pull/11803) |
 
 ---
 
@@ -63,7 +69,7 @@ Active contributions to high-impact international open-source ecosystems:
 
 ```yaml
 architectural_profile:
-  role: "Lead Systems Architect & Full-Stack Engineer"
+  role: "Lead Systems Architect & Autonomous Agent Specialist"
   engineering_philosophy: "Evidence over assumptions • Zero-slop design • Mathematical rigor"
   
 core_competencies:
@@ -72,8 +78,8 @@ core_competencies:
     - "High-Throughput Kernel Networking (Wintun, TUN/TAP, SOCKS5)"
     - "Database Optimization, Concurrency Locks & Query Profiling"
   autonomous_agents:
-    - "Model Context Protocol (MCP) Architectures"
-    - "Multi-Agent Orchestration & Cognitive LLM Self-Refining Loops"
+    - "Model Context Protocol (MCP) Multi-Server Architectures"
+    - "Multi-Agent Orchestration & Cognitive Self-Refining Loops"
     - "Stealth Headless Browser Workers & Circadian Behavioral Physics"
   frontend_engineering:
     - "Design Token Compilers (OKLCH, Radix, Tailwind v4)"
